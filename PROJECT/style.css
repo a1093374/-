@@ -1,0 +1,24 @@
+.wrap{
+    margin:0 auto;
+}
+img{
+    display: block;
+  margin: 0 auto;
+  border: 20px solid rgb(207, 128, 8);
+}
+a:hover{
+    color:aqua;
+    background: scroll;
+}
+.styles a{
+    color: aquamarine;
+    background-color:gray ;
+}
+h1{
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: aquamarine;
+}
+p{
+    font-size: 20;
+}
